@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Eye Focus Time Dataset contains data collected from 32 patients (excluding 3 patients from the original cohort of 35) to study eye focus patterns and their relationship with Alzheimer's disease. Each patient performed 10 trials where their ability to maintain visual focus was measured in seconds. The dataset is labeled with a diagnosis of Alzheimer's (`1`) or Healthy (`0`), making it a valuable resource for educational purposes in the study of cognitive and visual attention.
+The Eye Focus Time Dataset contains data collected from 32 patients to study eye focus patterns and their relationship with Alzheimer's disease. Each patient performed 10 trials where their ability to maintain visual focus was measured in seconds. The dataset is labeled with a diagnosis of Alzheimer's (`1`) or Healthy (`0`), making it a valuable resource for educational purposes in the study of cognitive and visual attention.
 
 ---
 
